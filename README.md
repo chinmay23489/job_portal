@@ -6,8 +6,10 @@
 
 ## Key Features
 
-- **Auth Managemen**:
-  [Login]
+- **Auth Management**:
+- *Login*
+- *Logout*
+- *SignUp*
 - **Feature 2**: [Description of feature 2]
 - **Feature 3**: [Description of feature 3]
 - ...
