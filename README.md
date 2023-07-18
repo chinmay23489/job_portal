@@ -5,7 +5,7 @@
 
   - Developed the application to tackle the issues of Unemployment
   - Created an innovative Job Portal application that connects Employers and job seekers
-  - 
+    
 
 ## 🎇 Key Features
 
