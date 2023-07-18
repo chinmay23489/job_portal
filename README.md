@@ -1,10 +1,11 @@
 # JOB PORTAL
 
-- **Overview**
+## ✨Overview
+
   - Developed the application to tackle the issues of Unemployment
   - Created an innovative Job Portal application that connects Employers and job seekers
 
-## Key Features
+## 🎇Key Features
 
 - **Auth Management**
   - Login
@@ -38,7 +39,9 @@
 
 - **Input Validation on Login and Signup**
 
-## Contributing
+  
+
+## 💎Contributing
 
 Contributions are what make the open source community such a fantastic place to learn, inspire, and create. Any contribution you give is highly appreciated.
 
